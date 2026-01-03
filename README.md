@@ -17,7 +17,7 @@
 -شرکت در Algorithm LevelUp (quera)
 -شرکت در IAAA (Iran's Annual Artificial Intelligence Award)
 
-##دوره و گواهینامه ها
+## دوره و گواهینامه ها
 -هوش مصنوعی و مهندسی داده  
 
 ## علایق و اهداف
